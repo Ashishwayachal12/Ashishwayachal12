@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Hello%20Dosto%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&stroke=00f2ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Hello%20Dfriends!%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&stroke=00f2ff&strokeWidth=2" width="100%" />
 
 
 <h1 align="center">I'm <b>Ashish Wayachal</b></h1>
