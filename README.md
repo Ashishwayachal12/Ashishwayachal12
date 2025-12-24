@@ -51,8 +51,6 @@
 
 <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="240" />
 
-## 👨‍💻 About Me
-
 A Computer Science engineer passionate about **DevOps, SRE, Cloud-Native, and Infrastructure Automation**.  
 Focused on building **scalable, reliable, and observable systems** using containers, orchestration, CI/CD, and cloud.
 
