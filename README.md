@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Hello%20Dosto%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&stroke=00f2ff&strokeWidth=2" width="100%" />
 
 
-<h1 align="center">Hi 👋, I'm <b>Ashish Wayachal</b></h1>
+<h1 align="center">I'm <b>Ashish Wayachal</b></h1>
 <h3 align="center">A passionate DevOps & SRE engineer from India shipping automation at scale</h3>
 
 ---
