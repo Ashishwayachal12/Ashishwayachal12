@@ -51,11 +51,16 @@
 
 <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="240" />
 
-- 🔭 Currently working on **Chat-App Deployment, Monitoring & Scaling**
-- 🌱 Learning **Kubernetes, CI/CD, GitOps, Observability, ArgoCD**
-- 🤝 Looking to collaborate on **Cloud-Native & Infra Automation**
-- ☁️ Exploring **AWS, Container Orchestration & Reliability Engineering**
-- ⚡ **Fun Fact:** *If it works, it goes to Git. If it breaks, it goes to logs.*
+## 👨‍💻 About Me
+
+A Computer Science engineer passionate about **DevOps, SRE, Cloud-Native, and Infrastructure Automation**.  
+Focused on building **scalable, reliable, and observable systems** using containers, orchestration, CI/CD, and cloud.
+
+Skilled in **automation, monitoring, GitOps, and deployment workflows**, with hands-on experience in AWS, Docker, Kubernetes, Prometheus, and Grafana.  
+I enjoy solving infrastructure challenges and improving system reliability through **observability and automation**.
+
+Always exploring modern tools that help systems **scale efficiently and run reliably**.
+
 
 ---
 
