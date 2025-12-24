@@ -35,7 +35,6 @@
   <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" width="50" />
   <img alt="Ansible" src="https://skillicons.dev/icons?i=ansible" width="50" />
   <img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins" width="50" />
-  <img alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" width="50" />
   <img alt="Prometheus" src="https://skillicons.dev/icons?i=prometheus" width="50" />
   <img alt="Grafana" src="https://skillicons.dev/icons?i=grafana" width="50" />
   <img alt="Bash" src="https://skillicons.dev/icons?i=bash" width="50" />
