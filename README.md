@@ -2,7 +2,7 @@
 
 
 <h1 align="center">I'm <b>Ashish Wayachal</b></h1>
-<h3 align="center">A passionate DevOps & SRE engineer from India shipping automation at scale</h3>
+<h3 align="center">A passionate Java & Devops engineer from India shipping automation at scale</h3>
 
 ---
 
