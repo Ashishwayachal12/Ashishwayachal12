@@ -26,7 +26,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ashishwayachal12&theme=flat-square&no-frame=true&column=3" />
 </p>
 
+## 🛠️ Tools & Technologies
 
+<p align="center">
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" width="50" />
+  <img alt="AWS" src="https://skillicons.dev/icons?i=aws" width="50" />
+  <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" width="50" />
+  <img alt="Ansible" src="https://skillicons.dev/icons?i=ansible" width="50" />
+  <img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins" width="50" />
+  <img alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" width="50" />
+  <img alt="Prometheus" src="https://skillicons.dev/icons?i=prometheus" width="50" />
+  <img alt="Grafana" src="https://skillicons.dev/icons?i=grafana" width="50" />
+  <img alt="Bash" src="https://skillicons.dev/icons?i=bash" width="50" />
+  <img alt="Python" src="https://skillicons.dev/icons?i=python" width="50" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="50" />
+  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="50" />
+</p>
 ---
 
 ## 🚀 About Me
