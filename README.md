@@ -42,8 +42,11 @@
   <img alt="Python" src="https://skillicons.dev/icons?i=python" width="50" />
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="50" />
   <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="50" />
+  <img alt="Java" src="https://skillicons.dev/icons?i=java" width="50" />
+  <img alt="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="50"/>
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="50" />
 </p>
----
+
 
 ## 🚀 About Me
 
