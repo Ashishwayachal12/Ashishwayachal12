@@ -86,8 +86,8 @@ Always exploring modern tools that help systems **scale efficiently and run reli
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishwayachal12&show_icons=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishwayachal12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishwayachal12&show_icons=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishwayachal12" width="48%" />
 </p>
 
 
@@ -95,21 +95,21 @@ Always exploring modern tools that help systems **scale efficiently and run reli
 
 ### 🚦 DevOps Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishwayachal12&hide_border=true&area=true&radius=20" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishwayachal12&hide_border=true&area=true&radius=20" width="90%" />
 </p>
 
 ---
 
 ## 📈 Contributions in the Last Year
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishwayachal12&theme=github-light&area=true&hide_border=false" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishwayachal12&theme=github-light&area=true&hide_border=false" width="90%" />
 </p>
 
 
 ### 🔔 GitHub Followers & Stars
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ashishwayachal12?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/ashishwayachal12?logo=star&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Ashishwayachal12?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Ashishwayachal12?logo=star&style=for-the-badge" />
 </p>
 
 ---
